@@ -62,7 +62,7 @@ To get this feature to work with AEM, the app needs to be able to identify which
 
 #if ( $enableSSR == "y" )
 
-${hash} Frontend Serverless Build (Adobe IO Runtime)
+${hash} Server-Side rendering in IO runtime and express
 
 ${hash}${hash} Features
 
